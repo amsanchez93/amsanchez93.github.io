@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Alexander Sanchez",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://amsanchez93.github.io/template/images/molly.png",
+    "email": "as29@hawaii.edu",
+    "phone": "818-644-3065",
+    "website": "https://amsanchez93.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical Engineering at the University of Hawaii. I expect to graduate in Fall, 2016.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,24 +17,14 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "amsanchez93",
+        "url": "http://github.com/amsanchez93"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Alexander Sanchez",
+        "url": "http://linkedin.com/in/alexander-sanchez"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
@@ -66,7 +56,6 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
       ]
     },
     {
