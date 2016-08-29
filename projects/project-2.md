@@ -1,24 +1,29 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/MAC-3.jpg
+title: Semi-Autonomous Unmanned Aerial Vehicle
+permalink: projects/Semi-Autonomous Unmanned Aerial Vehicle
+
 date: 2015
 labels:
   - Robotics
-  - C++
-summary: My team developed a robotic mouse that could solve a 16 x 16 maze.
+  - UAS
+  - UAV
+  - Drone
+summary: My team designed and built a fully autonomous electric Unmanned Aerial Vehicle (UAV) to survey and monitor a 4,000 acre macadamia nut farm on the Big Island of Hawaii. 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/MicroMouse1.jpg">
-  <img class="ui image" src="../images/MM2.jpg"> 
+  <img class="ui image" src="../images/MAC-1.jpg">
+  <img class="ui image" src="../images/MAC-2.jpg"> 
+  <img class="ui image" src="../images/MAC-3.jpg">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  My team designed and built a small 'mouse' that could solve a prebuilt 16 x 16 maze autonomously. 
+   The goal of this project was to design and build a fully autonomous electric Unmanned Aerial Vehicle (UAV) to survey and monitor a 4,000 acre macadamia nut farm on the Big Island of Hawaii. The UAV will take footage with an HD camera, so that the operator can determine if the crops are ready to harvest. 
+    This blended body aircraft  has a lightweight EPO foam core reinforced with fiberglass and carbon epoxy composites.  It will be capable  of fully autonomous flight, following a GPS guided adjustable flight pattern, as well as manual RC control. The plane is also equipped with a real-time First Person View system and high definition surveillance camera under the fuselage. 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+
 
 
 
