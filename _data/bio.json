@@ -74,7 +74,7 @@
         "Git/GitHub",
         "g++",
       ]
-    }
+    },
   ],
   "education": [
     {
@@ -86,7 +86,7 @@
       "gpa": "",
       "courses": [
       ]
-    }
+    },
   ],
   "work": [
     {
@@ -100,35 +100,9 @@
         "Monitor conference activities, operate audio-visual equipment, provide assistance as needed.",
         "Assist in performing preventative maintenance and repairs, as directed, on facilities and A/V equipment.",
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-     ]
     },
-    {
-      "organization": "",
-     "website": "",
-      "position": "",
-     "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-       "",
-      ]
-    }
   ],
+  
   "awards": [
     {
       "title": "Rookie of the Year",
@@ -148,5 +122,5 @@
       "name": "Available upon request",
       "reference": ""
     }
-  ]
+  ],
 }
