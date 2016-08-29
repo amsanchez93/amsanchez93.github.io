@@ -32,13 +32,13 @@
       "name": "Unmanned Aerial Systems",
       "keywords": [
         "UAV",
-        "Drones"
+        "Drones",
       ]
     },
     {
       "name": "3D Mapping",
       "keywords": [
-        "UAS"
+        "UAS",
       ]
     },
   ],
@@ -93,28 +93,28 @@
   ],
   "volunteer": [
     {
-      "organization": ""
-      "website": ""
-      "position": ""
-      "startDate": ""
-      "endDate": ""
-      "summary": ""
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        ""
-        ""
+        "",
+        "",
      ]
     },
     {
-      "organization": ""
-     "website": ""
-      "position": ""
-     "startDate": ""
-      "endDate": ""
-      "summary": ""
+      "organization": "",
+     "website": "",
+      "position": "",
+     "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        ""
-        ""
-       ""
+        "",
+        "",
+       "",
       ]
     }
   ],
@@ -123,19 +123,19 @@
       "title": "Rookie of the Year",
       "date": "2015-2016",
       "awarder": "Kappa Sigma Fraternity - Omicron Zeta Chapter",
-      "summary": ""
+      "summary": "",
     },
     {
-      "title": ""
-      "date": ""
-      "awarder": ""
+      "title": "",
+      "date": "",
+      "awarder": "",
       "summary": ""
     }
   ],
   "references": [
     {
       "name": "Available upon request",
-      "reference": ""
+      "reference": "",
     }
   ]
 }
