@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "Alexander Sanchez",
-        "url": "http://linkedin.com/in/alexander-sanchez"
+        "url": "https://www.linkedin.com/in/alexander-sanchez-04027b124"
       },
     ]
   },
@@ -81,7 +81,7 @@
       "company": "East - West Center",
       "position": "Audio Visual Technician",
       "website": "http://www.eastwestcenter.org/",
-      "startDate": "October 2013",
+      "startDate": "October, 2013",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -100,13 +100,13 @@
         "",
         ""
       ]
-    }
+    } 
   ],
   "volunteer": [
     {
       "organization": "",
       "website": "",
-      "position": "S",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
