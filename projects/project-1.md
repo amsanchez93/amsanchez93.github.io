@@ -12,7 +12,7 @@ summary: My team developed a robotic mouse that could solve a 16 x 16 maze.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/MM111.jpg">
+  <img class="ui image" src="../images/MicroMouse1.jpg">
   <img class="ui image" src="../images/MM2.jpg"> 
 </div>
 
