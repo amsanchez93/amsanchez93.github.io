@@ -38,6 +38,7 @@
     {
       "name": "3D Mapping",
       "keywords": [
+        "UAS"
       ]
     },
   ],
@@ -81,7 +82,7 @@
       "company": "East - West Center",
       "position": "Audio Visual Technician",
       "website": "http://www.eastwestcenter.org/",
-      "startDate": "October, 2013",
+      "startDate": "2013",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -89,45 +90,33 @@
         "Assist in performing preventative maintenance and repairs, as directed, on facilities and A/V equipment.",
       ]
     },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    } 
   ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
+  //"volunteer": [
+   // {
+    //  "organization": "",
+     // "website": "",
+     // "position": "",
+     // "startDate": "",
+     // "endDate": "",
+     // "summary": "",
+     // "highlights": [
+     //   "",
+      //  ""
+     // ]
+    //},
+   // {
+    //  "organization": "",
+    //  "website": "",
+    //  "position": "",
+    //  "startDate": "",
+    //  "endDate": "",
+    //  "summary": "",
+    //  "highlights": [
+    //    "",
+    //    "",
+    //    ""
+     // ]
+    //}
   ],
   "awards": [
     {
@@ -137,9 +126,9 @@
       "summary": ""
     },
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
+      "title": ""
+      "date": ""
+      "awarder": ""
       "summary": ""
     }
   ],
