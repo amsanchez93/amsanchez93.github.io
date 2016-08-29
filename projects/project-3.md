@@ -1,28 +1,26 @@
 ---
 layout: project
 type: project
-image: images/MAC-3.jpg
-title: Semi-Autonomous Unmanned Aerial Vehicle
-permalink: projects/Semi-Autonomous Unmanned Aerial Vehicle
+image: images/3D-2.png
+title: Using Drones for 3-Dimensional Modeling
+permalink: projects/Using Drones for 3-Dimensional Modeling
 
-date: 2015
+date: 2016
 labels:
   - Robotics
   - UAS
   - UAV
   - Drone
-summary: My team designed and built a fully autonomous electric Unmanned Aerial Vehicle (UAV) to survey and monitor a 4,000 acre macadamia nut farm on the Big Island of Hawaii. 
+  - 3D Mapping
+summary: The goal of this project was to design and build a fully autonomous Unmanned Aerial Vehicle (UAV) to 3-D map areas which may be difficult or dangerous for humans to enter.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/MAC-1.png">
-  <img class="ui image" src="../images/MAC-2.png"> 
-  <img class="ui image" src="../images/MAC-3.jpg">
+  <img class="ui image" src="../images/3D-1.jpg">
+  <img class="ui image" src="../images/3D-2.png"> 
 </div>
 
-   The goal of this project was to design and build a fully autonomous electric Unmanned Aerial Vehicle (UAV) to survey and monitor a 4,000 acre macadamia nut farm on the Big Island of Hawaii. The UAV will take footage with an HD camera, so that the operator can determine if the crops are ready to harvest. 
-    This blended body aircraft  has a lightweight EPO foam core reinforced with fiberglass and carbon epoxy composites.  It will be capable  of fully autonomous flight, following a GPS guided adjustable flight pattern, as well as manual RC control. The plane is also equipped with a real-time First Person View system and high definition surveillance camera under the fuselage. 
-
+   The goal of this project was to use a Pulsed Light LIDAR-Lite V1 along with an RPLIDAR 360° Laser scanner mounted on a quadcopter to 3D map on a small scale. Using both devices, along with a Raspberry Pi 2 to handle processing, we will be able to map different 3-Dimensional small-scale environments at low cost.. This 3D mapping can possibly be expanded to allow for further applications in the future.
 
 
 
