@@ -15,8 +15,8 @@ summary: My team designed and built a fully autonomous electric Unmanned Aerial 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/MAC-1.jpg">
-  <img class="ui image" src="../images/MAC-2.jpg"> 
+  <img class="ui image" src="../images/MAC-1.png">
+  <img class="ui image" src="../images/MAC-2.png"> 
   <img class="ui image" src="../images/MAC-3.jpg">
 </div>
 
