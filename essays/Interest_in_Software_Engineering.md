@@ -7,7 +7,6 @@ labels:
   - Engineering
 ---
 
-
 ##Interest in Software Engineering
 
 Starting my final semester as an undergraduate Computer Engineering Student, I do believe my introduction to a formal Software Engineering class is a bit overdue. This however does not mean I don't have experience in the subject. With past projects in other Computer Engineering classes, I've had to dabble in software engineering here and there. My interest in the subject, and my decision to finally take a Software Engineering class stems from a fascination with computer and programs from an early age. Marvelling at the complexity of computers and programs at a young age, it is great to finally be experiencing how all the 'magic' happens. 
