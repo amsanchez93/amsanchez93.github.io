@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/MAC-4.jpg
-title: Semi-Autonomous Unmanned Aerial Vehicle
+title: Autonomous Unmanned Aerial Vehicle
 permalink: projects/Semi-Autonomous Unmanned Aerial Vehicle
 
 date: 2015
