@@ -11,6 +11,7 @@ labels:
   - UAS
   - UAV
   - Drone
+  - Surveillance 
 summary: My team designed and built a fully autonomous electric Unmanned Aerial Vehicle (UAV) to survey and monitor a 4,000 acre macadamia nut farm on the Big Island of Hawaii. 
 ---
 
