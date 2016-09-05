@@ -29,9 +29,9 @@ In today’s society, the capabilities of Unmanned Aerial Vehicles can not be ig
 ##Introduction:
 The goal of this project is to use a Pulsed Light LIDAR-Lite V1 along with an RPLIDAR 360° Laser scanner mounted on a quadcopter to 3D map on a small scale. Using both devices, along with a Raspberry Pi 2 to handle processing, we will be able to map different 3-Dimensional small-scale environments at low cost. This 3D mapping can possibly be expanded to allow for further applications in the future.
 
-[Sensor Mount Gimbal](https://drive.google.com/file/d/0B3oLXv5IVIObdmQ5NHg3U2tUeUk/view?usp=sharing)
+[Sensor Mount Gimbal (Video)](https://drive.google.com/file/d/0B3oLXv5IVIObdmQ5NHg3U2tUeUk/view?usp=sharing)
 
-[Test Flight #1](https://drive.google.com/file/d/0B3oLXv5IVIObdHBnb0JPdk9Bb1E/view?usp=sharing)
+[Test Flight #1 (Video)](https://drive.google.com/file/d/0B3oLXv5IVIObdHBnb0JPdk9Bb1E/view?usp=sharing)
 
 [Final Report](https://docs.google.com/document/d/1GLAoFo-2xPzI_PE20Oi4psexXks5CJm9bCLDkA4hzZk/edit?usp=sharing)
 
