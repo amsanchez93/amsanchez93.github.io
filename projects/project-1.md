@@ -19,6 +19,10 @@ summary: My team developed a robotic mouse that could solve a 16 x 16 maze.
   <img class="ui image" src="../images/MM6.png"> 
 </div>
 
+[Solved Maze (Video)](https://drive.google.com/file/d/0B3oLXv5IVIObTzNlUmdYRlhxdDA/view?usp=sharing)
+
+[Final Report](https://drive.google.com/file/d/0B3oLXv5IVIObVnNRdXEyQjZNMTg/view?usp=sharing)
+
 Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  My team designed and built a small 'mouse' that could solve a prebuilt 16 x 16 maze autonomously. 
 
 The goal of micromouse was always to make it to the center of the maze though there is learning along the way. We are doing this with a P controller that pushes from the walls to center itself and constantly track the walls for turns as well. It uses a right wall hugging algorithm to reach the center of the maze. The algorithm will give priority to right turns, give priority to straight always and then will give priority to left turns. We have debugged it a lot since there has been many problems with the turns and steps to get to the center without problems consistently. We also had help from the seniors when we had problems we did not understand.
@@ -33,10 +37,6 @@ Trevin was the lead software in our team. He encouraged the team to quickly fini
 
 Parkle was responsible for helping on hardware and software. He was responsible for learning how to smd solder and helped with overall hardware and software problems. He learned how to use eagle and oversaw Alex’s design and made suggestions on the board. He did majority of the soldering especially the SMD components. He also created the sensor mounts for the sensors. He also assisted in the design of the overall chassis and “suggested” the double layered PCB design. Parkle helped with the algorithm of the mouse and offered assistance in software logic of the mouse.
 
-
-[Solved Maze (Video)](https://drive.google.com/file/d/0B3oLXv5IVIObTzNlUmdYRlhxdDA/view?usp=sharing)
-
-[Final Report](https://drive.google.com/file/d/0B3oLXv5IVIObVnNRdXEyQjZNMTg/view?usp=sharing)
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
