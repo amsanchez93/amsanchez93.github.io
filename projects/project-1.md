@@ -16,7 +16,7 @@ summary: My team developed a robotic mouse that could solve a 16 x 16 maze.
   <img class="ui image" src="../images/MM2.jpg"> 
   <img class="ui image" src="../images/MM3.jpg"> 
   <img class="ui image" src="../images/MM4.jpg"> 
-  <img class="ui image" src="../images/MM6.jpg"> 
+  <img class="ui image" src="../images/MM6.png"> 
 </div>
 
 Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  My team designed and built a small 'mouse' that could solve a prebuilt 16 x 16 maze autonomously. 
