@@ -16,7 +16,7 @@ summary: The goal of this project was to design and build a fully autonomous Unm
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/3D-1.jpg">
+  <img class="ui image" src="../images/3D-3.jpg">
   <img class="ui image" src="../images/3D-2.png"> 
 </div>
 
