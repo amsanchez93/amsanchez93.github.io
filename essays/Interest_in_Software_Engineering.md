@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Interest in Software Engineering
-date: 2016-09-01
+date: 2016-09-03
 labels:
   - Engineering
 ---
