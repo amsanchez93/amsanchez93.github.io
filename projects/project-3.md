@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/3D-2.png
+image: images/3D-1.png
 title: Using Drones for 3-Dimensional Modeling
 permalink: projects/Using Drones for 3-Dimensional Modeling
 
@@ -17,7 +17,7 @@ summary: The goal of this project was to design and build a fully autonomous Unm
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/3D-3.jpg">
-  <img class="ui image" src="../images/3D-2.png"> 
+  <img class="ui image" src="../images/3D-1.png"> 
 </div>
 
 
