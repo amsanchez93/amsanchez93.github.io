@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/MAC-3.jpg
+image: images/MAC-4.jpg
 title: Semi-Autonomous Unmanned Aerial Vehicle
 permalink: projects/Semi-Autonomous Unmanned Aerial Vehicle
 
@@ -18,7 +18,7 @@ summary: My team designed and built a fully autonomous electric Unmanned Aerial 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/MAC-1.png">
   <img class="ui image" src="../images/MAC-2.png"> 
-  <img class="ui image" src="../images/MAC-3.jpg">
+  <img class="ui image" src="../images/MAC-4.jpg">
 </div>
 
    The goal of this project was to design and build a fully autonomous electric Unmanned Aerial Vehicle (UAV) to survey and monitor a 4,000 acre macadamia nut farm on the Big Island of Hawaii. The UAV will take footage with an HD camera, so that the operator can determine if the crops are ready to harvest. 
