@@ -14,5 +14,7 @@ Modern technology and computing has advanced at an outstanding rate in the past 
 
 ##Personal Experience
 
+As a computer engineering student, working on a team is nothing new to me. Early in my academic career, my partners and I relied on emailing each other our partially finished code with notes on what we've accomplished so far. This problem stemmed from our lack of knowledge on 
+
 ## Github
 There have been many attempts at producing software that could make collaboration an ease. Currently, the most popular software hostinng system is Github. 
