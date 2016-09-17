@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Teamwork Makes The Dream Work
-date: 2016-09-14
+date: 2016-09-09
 labels:
   - Engineering
 ---
