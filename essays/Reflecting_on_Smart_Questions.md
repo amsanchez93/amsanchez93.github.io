@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Reflect on Smart Questions
-date: 2016-09-8
+date: 2016-09-08
 labels:
   - Engineering
 ---
