@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Copy Paste
+title: As Easy As Copy, Paste!
 date: 2016-10-06
 labels:
   - Engineering
