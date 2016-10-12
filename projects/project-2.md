@@ -7,7 +7,6 @@ permalink: projects/Semi-Autonomous Unmanned Aerial Vehicle
 
 date: 2015
 labels:
-  - Robotics
   - UAS
   - UAV
   - Drone
