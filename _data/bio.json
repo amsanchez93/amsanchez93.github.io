@@ -62,7 +62,9 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
+        "HTML",
+        "VHDL",
+        "Verilog HDL"
       ]
     },
     {
@@ -70,9 +72,9 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
       ]
     },
   ],
@@ -97,8 +99,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Monitor conference activities, operate audio-visual equipment, provide assistance as needed.",
-        "Assist in performing preventative maintenance and repairs, as directed, on facilities and A/V equipment.",
+        "Operate and maintain both analog and digital audio/video systems.",
       ]
     },
   ],
@@ -108,7 +109,7 @@
       "title": "Rookie of the Year",
       "date": "2015-2016",
       "awarder": "Kappa Sigma Fraternity - Omicron Zeta Chapter",
-      "summary": " ",
+      "summary": "Awarded to new member who best exemplifies Fellowship, Leadership, Scholarship, Service."
     },
   ],
   "references": [
