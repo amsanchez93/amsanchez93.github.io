@@ -27,11 +27,6 @@ In today’s society, the capabilities of Unmanned Aerial Vehicles can not be ig
 
 
 Introduction:
-The goal of this project is to use a Pulsed Light LIDAR-Lite V1 along with an RPLIDAR 360° Laser scanner mounted on a quadcopter to 3D map on a small scale. Using both devices, along with a Raspberry Pi 2 to handle processing, we will be able to map different 3-Dimensional small-scale environments at low cost. This 3D mapping can possibly be expanded to allow for further applications in the future.
+The goal of this project is to design and build a fully autonomous quadcopter-mounted-system capable of producing 3-D maps of small scale environments. Responsibilities include: developing software to build 3-D map from multiple 2-D LIDAR sensor inputs, capturing and modifying data from Pixhawk flight controller, setting up Pixhawk flight controller to allow for autonomous flight, and designing 3-D printed sensor mounts using Blender Software. 
 
-[Sensor Mount Gimbal (Video)](https://drive.google.com/file/d/0B3oLXv5IVIObdmQ5NHg3U2tUeUk/view?usp=sharing)
-
-[Test Flight #1 (Video)](https://drive.google.com/file/d/0B3oLXv5IVIObdHBnb0JPdk9Bb1E/view?usp=sharing)
-
-[Final Report](https://docs.google.com/document/d/1GLAoFo-2xPzI_PE20Oi4psexXks5CJm9bCLDkA4hzZk/edit?usp=sharing)
 
