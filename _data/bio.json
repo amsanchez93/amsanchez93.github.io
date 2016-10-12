@@ -127,19 +127,19 @@
       "summary": "Designed and built a fully autonomous electric Unmanned Aerial Vehicle to survey and monitor a 4,000 acre macadamia nut farm on the Big Island of Hawaii. The UAV takes footage with an HD camera along with a live-feed First Person View camera, allowing the operator to determine if crops are ready to harvest. The UAV is capable of fully autonomous flight, following a GPS guided adjustable flight pattern. Responsibilities included: research and set up electronic components including: Li-Po batteries, Pixhawk flight controller, cameras, motors, and other electronic components to fit project specifications."
     },
       {
-      "title": "Rookie of the Year",
-      "date": "2015-2016",
-      "awarder": "Kappa Sigma Fraternity - Omicron Zeta Chapter",
-      "summary": "Awarded to new member who best exemplifies Fellowship, Leadership, Scholarship, Service."
+ "title": "MicroMouse",
+      "date": "Spring 2015",
+      "awarder": "Dr. Tep Dobry, EE Director",
+      "summary": "Designed and built from scratch a small autonomous robotic ‘mouse’ that can solve a randomly generated 16x16 cell maze. Responsibilities included: design and fabrication of chassis and sensor mounts using SketchUp, design of PCB using EAGLE, and providing support in developing solving algorithm."
     },
   ],
   
   "awards": [
     {
-      "title": "MicroMouse",
-      "date": "Spring 2015",
-      "awarder": "Dr. Tep Dobry, EE Director",
-      "summary": "Designed and built from scratch a small autonomous robotic ‘mouse’ that can solve a randomly generated 16x16 cell maze. Responsibilities included: design and fabrication of chassis and sensor mounts using SketchUp, design of PCB using EAGLE, and providing support in developing solving algorithm."
+      "title": "Rookie of the Year",
+      "date": "2015-2016",
+      "awarder": "Kappa Sigma Fraternity - Omicron Zeta Chapter",
+      "summary": "Awarded to new member who best exemplifies Fellowship, Leadership, Scholarship, Service."
     },
   ],
   "references": [
