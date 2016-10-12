@@ -77,11 +77,26 @@
         "Git/GitHub",
       ]
     },
+    {
+      "name": "Programs/Applications",
+      "level": "",
+      "keywords": [
+        "MATLAB",
+        "PSpice",
+        "EAGLE",
+        "Logicworks",
+        "Mission Planner",
+        "SketchUP",
+        "Microsoft Word",
+        "Microsoft Powerpoint",
+        "Microsoft Excel"
+      ]
+    },
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Fall, 2016)",
+      "area": "Computer Engineering (expected December 2016)",
       "studyType": "B.S.",
       "startDate": "",
       "endDate": "",
@@ -92,8 +107,8 @@
   ],
   "work": [
     {
-      "company": "East - West Center",
-      "position": "Audio Visual Technician",
+      "company": "Hawai’i Imin International Conference Center ",
+      "position": "Audio/Visual Technician/Operator",
       "website": "http://www.eastwestcenter.org/",
       "startDate": "2013",
       "endDate": "Present",
@@ -114,7 +129,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": " Available upon request.",
     }
   ],
 }
