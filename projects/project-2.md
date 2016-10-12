@@ -21,8 +21,7 @@ summary: My team designed and built a fully autonomous electric Unmanned Aerial 
   <img class="ui image" src="../images/MAC-4.jpg">
 </div>
 
-   The goal of this project was to design and build a fully autonomous electric Unmanned Aerial Vehicle (UAV) to survey and monitor a 4,000 acre macadamia nut farm on the Big Island of Hawaii. The UAV will take footage with an HD camera, so that the operator can determine if the crops are ready to harvest. 
-    This blended body aircraft  has a lightweight EPO foam core reinforced with fiberglass and carbon epoxy composites.  It will be capable  of fully autonomous flight, following a GPS guided adjustable flight pattern, as well as manual RC control. The plane is also equipped with a real-time First Person View system and high definition surveillance camera under the fuselage. 
+   The goal of this project was to design and build a fully autonomous electric Unmanned Aerial Vehicle (UAV) to survey and monitor a 4,000 acre macadamia nut farm on the Big Island of Hawaii. The UAV takes footage with an HD camera along with a live-feed First Person View camera, allowing the operator to determine if crops are ready to harvest. The UAV is capable of fully autonomous flight, following a GPS guided adjustable flight pattern. Responsibilities included: research and set up electronic components including: Li-Po batteries, Pixhawk flight controller, cameras, motors, and other electronic components to fit project specifications.
 
 
 
