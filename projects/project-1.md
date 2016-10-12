@@ -22,7 +22,7 @@ summary: My team developed a robotic mouse that could autonomously solve a rando
 [Solved Maze (Video)](https://drive.google.com/file/d/0B3oLXv5IVIObTzNlUmdYRlhxdDA/view?usp=sharing)
 
 
-Designed and built from scratch a small autonomous robotic ‘mouse’ that can solve a randomly generated 16x16 cell maze. Responsibilities included: design and fabrication of chassis and sensor mounts using SketchUp, design of PCB using EAGLE, and providing support in developing solving algorithm.
+My team and I built, from scratch, a small autonomous robotic ‘mouse’ that can solve a randomly generated 16x16 cell maze. My responsibilities included: design and fabrication of chassis and sensor mounts using SketchUp, design of PCB using EAGLE, and providing support in developing solving algorithm. 
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
