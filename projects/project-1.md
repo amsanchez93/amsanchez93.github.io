@@ -8,7 +8,7 @@ date: 2015
 labels:
   - Robotics
   - C++
-summary: My team developed a robotic mouse that could solve a 16 x 16 maze.
+summary: My team developed a robotic mouse that could autonomously solve a randomly generated 16 x 16 maze.
 ---
 
 <div class="ui small rounded images">
