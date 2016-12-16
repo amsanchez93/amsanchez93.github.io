@@ -12,7 +12,7 @@ labels:
   - UAV
   - Drone
   - 3D Mapping
-summary: The goal of this project is to design and build a fully autonomous Unmanned Aerial Vehicle (UAV) to 3-D map areas which may be difficult or dangerous for humans to enter.
+summary: The goal of this project was to design and build a fully autonomous Unmanned Aerial Vehicle (UAV) to 3-D map areas which may be difficult or dangerous for humans to enter.
 ---
 
 <div class="ui small rounded images">
