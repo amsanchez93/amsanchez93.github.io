@@ -5,6 +5,9 @@ title: Interest in Software Engineering
 date: 2016-09-03
 labels:
   - Engineering
+  - Software
+  - Javascript
+  - HTML
 ---
 
 ## Interest in Software Engineering
