@@ -100,12 +100,6 @@
       "endDate": "",
       "gpa": "",
       "courses": [
-        "Introduction to Operating Systems",
-        "Software Engineering",
-        "Data Storage & Retrieval", 
-        "Computer Data Structures & Algorithms",
-        "Introduction to Computer & Network Security",
-        "Object Oriented Programming"
       ]
     },
   ],
