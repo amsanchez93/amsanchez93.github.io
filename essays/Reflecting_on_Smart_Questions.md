@@ -5,6 +5,8 @@ title: Reflect on Smart Questions
 date: 2016-09-08
 labels:
   - Engineering
+  - Asking Questions
+  - Standards
 ---
 
 
