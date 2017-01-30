@@ -47,6 +47,12 @@
         "Micromouse"  
       ]
     },
+    {
+      "name": "Web Application Design",
+      "keywords": [
+        "Meteor"
+      ]
+    },
   ],
   "skills": [
     {
@@ -58,8 +64,11 @@
         "Java",
         "Javascript",
         "HTML",
+        "CSS",
+        "PHP",
         "VHDL",
-        "Verilog HDL"
+        "Verilog HDL",
+        "Oracle SQL",
       ]
     },
     {
@@ -91,7 +100,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected December 2016)",
+      "area": "Computer Engineering - December 2016",
       "studyType": "B.S.",
       "startDate": "",
       "endDate": "",
