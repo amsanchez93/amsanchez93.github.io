@@ -5,12 +5,13 @@ title: Reflecting on Javascript
 date: 2016-09-01
 labels:
   - Engineering
+  - Javascript
 ---
 
 
 ## Thoughts on Javascript 
 
-Begginning my last semester as a Computer Engineering student, I believe my introduction to the Javascript language is long overdue. 
+Beginning my last semester as a Computer Engineering student, I believe my introduction to the Javascript language is long overdue. 
 This however has helped me immenensly in appreciating Javascript as a language. Starting out, Javascript seems to be a fairly beginner friendly language.
 It seems a lot friendlier when compared to other languages like C++ and much, much easier when compared to certain Assembly Languages. 
 Although Javascript has some different rules that have taken me some time to get used to, the basics are similar to languages I've
