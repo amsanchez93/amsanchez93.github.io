@@ -42,12 +42,6 @@
       ]
     },
     {
-      "name": "Robotics",
-      "keywords": [
-        "Micromouse"  
-      ]
-    },
-    {
       "name": "Web Application Design",
       "keywords": [
         "Meteor"
@@ -101,11 +95,17 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering - December 2016",
-      "studyType": "B.S.",
+      "studyType": "B.S."
       "startDate": "",
       "endDate": "",
       "gpa": "",
       "courses": [
+        "Introduction to Operating Systems",
+        "Software Engineering",
+        "Data Storage & Retrieval", 
+        "Computer Data Structures & Algorithms",
+        "Introduction to Computer & Network Security",
+        "Object Oriented Programming",
       ]
     },
   ],
@@ -145,8 +145,20 @@
   
   "awards": [
     {
+      "title": "Dean's List",
+      "date": "Fall 2016",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded if student earns a grade point average of 3.5 or higher."
+    },
+    {
+      "title": "Brother-At-Large Award",
+      "date": "Fall 2016",
+      "awarder": "Kappa Sigma Fraternity - Omicron Zeta Chapter",
+      "summary": "Awarded to returning member who best exemplifies Fellowship, Leadership, Scholarship, Service."
+    },
+    {
       "title": "Rookie of the Year",
-      "date": "2015-2016",
+      "date": "Spring 2016",
       "awarder": "Kappa Sigma Fraternity - Omicron Zeta Chapter",
       "summary": "Awarded to new member who best exemplifies Fellowship, Leadership, Scholarship, Service."
     },
