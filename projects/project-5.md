@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/workout-tracker.png
 title: Simple Workout Tracker
-permalink: projects/micromouse
+permalink: projects/workout-tracker
 date: 2016
 labels:
   - HTML
