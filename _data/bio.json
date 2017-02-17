@@ -160,10 +160,10 @@
   ],
   "volunteer": [
      {
-      "organization": "Kappa Sigma Fraternity - Omicron Zeta Chapter, University of Hawaii at Manoa",
+      "organization": "Kappa Sigma Fraternity - Omicron Zeta Chapter",
       "website": "http://www.kappasigmaoz.com/",
       "position": "Pledge Educator",
-      "startDate": " Fall 2016",
+      "startDate": " Fall 16",
       "endDate": "",
       "summary": "Responsible for over 40 new members.",
         "highlights": [
@@ -175,21 +175,53 @@
       ]
     },
     {
+      "organization": "Kappa Sigma Fraternity - Omicron Zeta Chapter",
+      "website": "http://www.kappasigmaoz.com/",
+      "position": "Fundraising Chair",
+      "startDate": "Spring 16",
+      "endDate": "",
+      "summary": "Arranged several fundraising events eventually doubling the Fraternity's yearly budget.",
+    },
+     {
+      "organization": "Advancing Unmanned Aerial Systems Workshop",
+      "website": "",
+      "position": "Speaker",
+      "startDate": "Spring 15",
+      "endDate": "",
+      "summary": "Presented my progress on surveillance UAV to the school’s Dean and other companies and administrations interested or involved with Unmanned Aerial Systems.",
+    },
+    {
       "organization": "The ALS Association Golden West Chapter",
       "website": "webgw.alsa.org/",
-      "position": "Pledge Educator",
+      "position": "Volunteer",
       "startDate": "2016",
       "endDate": "",
-      "summary": "Provide logisitical support for the Hawai'i Walk.",
+      "summary": "Provided logisitical support for the ALS Walk.",
+    },
+    {
+      "organization": "PAU Violence Program",
+      "website": "http://manoa.hawaii.edu/pauviolence/",
+      "position": "Volunteer",
+      "startDate": "Fall 16",
+      "endDate": "",
+      "summary": "Provided information on domestic violence and resources to prevent it.",
     },
     {
       "organization": "American Cancer Society - Relay for Life",
       "website": "www.relayuh.com/",
       "position": "Participant",
-      "startDate": "2011",
+      "startDate": "2013",
       "endDate": "2016",
-      "summary": "Provide logisitical support for the Relay for Life at the University of Hawaii at Manoa.",
-    }
+      "summary": "Along with the Kappa Sigma Fraternity, helped raise over $1000 in 2016 to donate to the American Cancer Society.",
+    },
+    {
+      "organization": "Hawaiian Humane Society PetWalk",
+      "website": "http://www.hawaiianhumane.org/petwalk/",
+      "position": "Volunteer",
+      "startDate": "Fall 15",
+      "endDate": "",
+      "summary": "Provided logistical support for the pet walk.",
+    },
   ],
   "awards": [
     {
