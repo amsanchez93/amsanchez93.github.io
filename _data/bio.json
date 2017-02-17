@@ -159,10 +159,25 @@
     },
   ],
   "volunteer": [
+     {
+      "organization": "Kappa Sigma Fraternity - Omicron Zeta Chapter, University of Hawaii at Manoa",
+      "website": "http://www.kappasigmaoz.com/",
+      "position": "Volunteer",
+      "startDate": "2016",
+      "endDate": "",
+      "summary": "Responsible for over 40 new members.",
+        "highlights": [
+        "Cultivated new members with the basic knowledge necessary to understand the Fraternity’s background.",
+        "Cultivated new members with time management and personal development skills.",
+        "Setup community service and fundraising events.",
+        "Setup and hold weekly meetings.",
+        "Emphasize anti-hazing policies.",
+      ]
+    },
     {
       "organization": "The ALS Association Golden West Chapter",
       "website": "webgw.alsa.org/",
-      "position": "Volunteer",
+      "position": "Pledge Educator",
       "startDate": "2016",
       "endDate": "",
       "summary": "Provide logisitical support for the Hawai'i Walk.",
