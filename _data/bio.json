@@ -142,7 +142,13 @@
       "summary": "Designed and built from scratch a small autonomous robotic ‘mouse’ that can solve a randomly generated 16x16 cell maze. Responsibilities included: design and fabrication of chassis and sensor mounts using SketchUp, design of PCB using EAGLE, and providing support in developing solving algorithm."
     },
   ],
-  
+  "volunteer": [
+    {
+      "organization": " The ALS Association Golden West Chapter",
+      "role": "Volunteer - Provide logisitcal support for the Hawai'i Walk.",
+      "date": "September 2016",
+    }
+  ],
   "awards": [
     {
       "title": "Dean's List",
@@ -163,11 +169,5 @@
       "summary": "Awarded to new member who best exemplifies Fellowship, Leadership, Scholarship, Service."
     },
   ],
-  "volunteer": [
-    {
-      "organization": " The ALS Association Golden West Chapter",
-      "role": "Volunteer - Provide logisitcal support for the Hawai'i Walk.",
-      "date": "September 2016",
-    }
-  ],
+
 }
