@@ -8,7 +8,9 @@ date: 2016
 labels:
   - HTML
   - SQL
+  - MySQL
   - DBMS
+  - PHP
   
 summary: A simple DBMS-backed web application that helps users track their workouts.
 ---
@@ -20,7 +22,12 @@ summary: A simple DBMS-backed web application that helps users track their worko
 </div>
 
 
-I created a DBMS-backed web application that helps users track their workouts. Using multiple HTML pages and data persisted in a DBMS, this application can both write and read data to a relational DBMS. Users can create an account, enter their workouts, date of workout and current weight to track their progress across several days. 
+'Simple Workout Tracker' is a simple DBMS backed web application that I created for my final project in ICS321, Data Storage & Retrieval, Spring 2015. The project helped me learn how to design and implement an application backed by a DBMS. 
+
+For this project, I used multiple HTML pages to allow users to enter their username, password, and workout information. Using PHP and  and MySQL, I was able to allow users, once verified, to read and write data to their profiles. 
+
+With this project, I gained experience with simple back-end DBMS driven web application design.
+
 
 [Application Demo (Video)](https://youtu.be/Y55aI77Opms)
 
