@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/homescreen.png
+image: images/homescreen2.png
 title: Manoa Snackbox
 permalink: projects/manoa-snackbox
 date: 2016
