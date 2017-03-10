@@ -15,11 +15,9 @@ labels:
 summary: A simple DBMS-backed web application that helps users track their workouts.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/workout-tracker.png">
-  <img class="ui image" src="../images/workout-tracker1.png"> 
-  <img class="ui image" src="../images/workout-tracker2.png">
-</div>
+  <img class="ui medium right floated rounded image" src="../images/workout-tracker.png">
+  <img class="ui medium right floated rounded image" src="../images/workout-tracker1.png"> 
+  <img class="ui medium right floated rounded image" src="../images/workout-tracker2.png">
 
 
 'Simple Workout Tracker' is a simple DBMS backed web application that I created for my final project in [ICS321](http://www.catalog.hawaii.edu/courses/departments/ics.htm), Data Storage & Retrieval, Fall 2016. The project helped me learn how to design and implement an application backed by a DBMS. 
