@@ -4,7 +4,7 @@ type: project
 image: images/homescreen.png
 title: Manoa Snackbox
 permalink: projects/manoa-snackbox
-date: 2015
+date: 2016
 labels:
   - Software Engineering
   - JavaScript
