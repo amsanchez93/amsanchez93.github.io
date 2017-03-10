@@ -15,7 +15,7 @@ labels:
   
 summary: A web application that provides information on vending machines across the University of Hawaii campus.
 ---
-
+ 
   <img class="ui medium right floated rounded image" src="../images/homescreen.png">
 
 Manoa Snackbox is a web application that I helped create as a final team project in [ICS314](http://www.catalog.hawaii.edu/courses/departments/ics.htm), Software Engineering, Fall 2016. The project helped my team and I learn how to design and implement a responsive website. 
