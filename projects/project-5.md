@@ -28,5 +28,7 @@ I received a perfect score on this project.
 
 [Application Demo (Video)](https://youtu.be/Y55aI77Opms)
 
+Source: <a href="https://github.com/amsanchez93/workout-tracker"><i class="large github icon"></i>amsanchez93/workout-tracker</a>
+
 
 
