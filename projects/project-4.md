@@ -11,7 +11,7 @@ labels:
 summary: A web application that provides information on vending machines across the University of Hawaii campus.
 ---
 
-  <img class="ui medium top floated rounded image" src="../images/homescreen.png">
+  <img class="ui medium right floated rounded image" src="../images/homescreen.png">
   <img class="ui medium right floated rounded image" src="../images/mapscreen.png"> 
 
 
