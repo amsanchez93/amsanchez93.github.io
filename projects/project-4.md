@@ -7,7 +7,12 @@ permalink: projects/manoa-snackbox
 date: 2015
 labels:
   - Software Engineering
-  - JavaScript, HTML, CSS
+  - JavaScript
+  - HTML
+  - CSS
+  - MongoDB
+  - Full-Stack
+  
 summary: A web application that provides information on vending machines across the University of Hawaii campus.
 ---
 
