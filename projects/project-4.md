@@ -24,7 +24,7 @@ To implement Manoa Snackbox we used [Meteor](https://www.meteor.com/), 'an open 
  
 This application allows users to find out information on the different vending machines located across the University of Hawaii campus, including inventory lists, and nutritional information on the products carried. 
 
-With this project, I gained 'hands-on' experience with full-stack web application design, including [MongoDB](https://www.mongodb.com/) to implement the database, CSS, and Jacascript for client and server-side programming. 
+With this project, I gained 'hands-on' experience with full-stack web application design, including [MongoDB](https://www.mongodb.com/) to implement the database, CSS, and Javascript for client and server-side programming. 
 
 [Organization GitHub Page](https://manoa-snackbox.github.io/)
 
