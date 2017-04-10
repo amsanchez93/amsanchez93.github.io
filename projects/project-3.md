@@ -24,7 +24,7 @@ The commercial applications of a 3-D mapping system mounted on a UAV are limitle
 In order to accomplish the task we utlized a modified 'out of the box' UAV, a [Pixhawk Flight Controller](https://pixhawk.org/), and a [SLAMTEC RPLIDAR 360degree Laser Scanner (Version 1)](https://www.slamtec.com/en).
 
 ## Initial Plan
-The 360 Laser scanner was supplied with 2-dimensional mapping software (demoed above). My partner and I came up with the idea, to strap the 360laser scanner on the UAV which would then fly to designated 'control points.' Once at the control point, the laser scanner would scan the room at its current location, and record its location. Once the UAV had taken an acceptable amount of scans of a room, our software would take each scan, along with its coordinates and accomodate the different scan locations by taking into account the coordinates of each scan location. Doing this, we could effectively 'stitch' each different static 2-dimensional map, into one 3-dimensional map. 
+The 360 Laser scanner was supplied with 2-dimensional mapping software. My partner and I came up with the idea to strap the laser scanner on the UAV which would then fly to designated 'control points.' Once at the control point, the laser scanner would scan the room at its current location and record its location. Once the UAV had taken an acceptable amount of scans of a room, our software would take each scan, along with its coordinates, and combine the different scan images. Doing this, we could effectively 'stitch' each different static 2-dimensional map, into one 3-dimensional map. 
 
 ## Basic Algorithm for Mapping Points
 1. Take 2D scans using 360° scanner
@@ -42,18 +42,18 @@ The 360 Laser scanner was supplied with 2-dimensional mapping software (demoed a
 ## Results
 My partner and I were able to create 3-dimensional maps with manually inputted coordinates for the 'control points.' 
 <img class="ui image" src="../images/3D-3.jpg">
-Figure 1. UAV with 2-d scanner mounted on stabilization platform (3D printed mounts on gimbal.)
+1. UAV with 2-dimensional scanner mounted on stabilization platform (3D printed mounts on gimbal.)
 
 <img class="ui image" src="../images/2-draw.png">
-Figure 2. 2-d scans with control points (in red). This image is of 3 different 2-dimensional scans at 3 separate locations (in red)  stitched together to allow for 1 image. This is necessary in order to get full view of all sides of all objects in a room. 
+2. 2-dimensional scans with control points (in red). This image is of 3 different 2-dimensional scans at 3 separate locations (in red)  stitched together to develop one final 2-dimensional map. This process is necessary to get a full view of all sides of all objects in a room. 
 
 
 <img class="ui image" src="../images/3-draw.png">
-Figure 3. 3-d map of same set up as Figure 2. 
+3. Final 3-dimensional 'stitched' map of same set up as Figure 2. 
 
 <img class="ui image" src="../images/3D-1.png">
-Figure 4. 3-dimensional map of small box on bigger box in room.
-The inconsistencies found are due to the small inconsistencies with the given scan location coordinates. This software would need an additional correction algorithm before being deployed. 
+4. 3-dimensional map of small box on bigger box in room.
+The inconsistencies shown are due to the small errors with the given scan location coordinates. This software would need an additional correction algorithm before being deployed. 
 
 
 
