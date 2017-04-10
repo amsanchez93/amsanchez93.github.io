@@ -46,8 +46,11 @@ The 360 Laser scanner was supplied with 2-dimensional mapping software (demoed a
 3. Scatter plot used to generate 3D map.
 
 ## Results
-My partner and I were able to create 3-dimensional maps with manually inputted coordinates for the 'control points.'  
-<img class="ui image" src="../images/3D-1.png"> 
+My partner and I were able to create 3-dimensional maps with manually inputted coordinates for the 'control points.' 
+<img class="ui image" src="../images/3D-3.jpg">
+Figure 1. UAV with 2-d scanner mounted on stabilization platform (3D printed mounts on gimbal.)
+<img class="ui image" src="../images/3D-1.png">
+Figure 2. 3-dimensional map of small box on bigger box in room.
 
 [Poster Board for Final Presentation](https://docs.google.com/presentation/d/1E7QgWdOTH9bBuWeAJh5SnWRyPhcc544njnLw52QVCds/edit?usp=sharing)
 
