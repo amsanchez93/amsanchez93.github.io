@@ -227,9 +227,8 @@
   "awards": [
     {
       "title": "Dean's List",
+      "date": "Fall 2016",
       "awarder": "University of Hawaii at Manoa",
-      "startDate": "2016",
-      "endDate": "",
       "summary": "Dean's List recipients received a GPA of 3.5 or above while maintaining full-time student status."
     },
     {
