@@ -15,12 +15,6 @@ labels:
 summary: A fully autonomous Unmanned Aerial Vehicle with capabilites to 3-D map small scale environments. 
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/3D-3.jpg">
-  <img class="ui image" src="../images/3D-1.png"> 
-</div>
-
-
 For my [EE496 Capstone project](http://www.ee.hawaii.edu/student/index.php?stc=1&stp=79) my lab partner and I helped develop software allowing an autonomous [unmanned aerial vehicle (UAV)](https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle) to build static 3-Dimensional maps of small scale environments. 
 
 ## Background 
@@ -49,9 +43,20 @@ The 360 Laser scanner was supplied with 2-dimensional mapping software (demoed a
 My partner and I were able to create 3-dimensional maps with manually inputted coordinates for the 'control points.' 
 <img class="ui image" src="../images/3D-3.jpg">
 Figure 1. UAV with 2-d scanner mounted on stabilization platform (3D printed mounts on gimbal.)
+
+<img class="ui image" src="../images/2-draw.png">
+Figure 2. 2-d scans with control points (in red). This image is of 3 different 2-dimensional scans at 3 separate locations (in red)  stitched together to allow for 1 image. This is necessary in order to get full view of all sides of all objects in a room. 
+
+
+<img class="ui image" src="../images/3-draw.png">
+Figure 3. 3-d map of same set up as Figure 2. 
+
 <img class="ui image" src="../images/3D-1.png">
-Figure 2. 3-dimensional map of small box on bigger box in room.
+Figure 4. 3-dimensional map of small box on bigger box in room.
 The inconsistencies found are due to the small inconsistencies with the given scan location coordinates. This software would need an additional correction algorithm before being deployed. 
+
+
+
 
 [Poster Board for Final Presentation](https://docs.google.com/presentation/d/1E7QgWdOTH9bBuWeAJh5SnWRyPhcc544njnLw52QVCds/edit?usp=sharing)
 
