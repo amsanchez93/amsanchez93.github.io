@@ -51,6 +51,7 @@ My partner and I were able to create 3-dimensional maps with manually inputted c
 Figure 1. UAV with 2-d scanner mounted on stabilization platform (3D printed mounts on gimbal.)
 <img class="ui image" src="../images/3D-1.png">
 Figure 2. 3-dimensional map of small box on bigger box in room.
+The inconsistencies found are due to the small inconsistencies with the given scan location coordinates. This software would need an additional correction algorithm before being deployed. 
 
 [Poster Board for Final Presentation](https://docs.google.com/presentation/d/1E7QgWdOTH9bBuWeAJh5SnWRyPhcc544njnLw52QVCds/edit?usp=sharing)
 
