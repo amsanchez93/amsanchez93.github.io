@@ -42,18 +42,18 @@ The 360 Laser scanner was supplied with 2-dimensional mapping software. My partn
 ## Results
 My partner and I were able to create 3-dimensional maps with manually inputted coordinates for the 'control points.' 
 <img class="ui image" src="../images/3D-3.jpg">
-1. UAV with 2-dimensional scanner mounted on stabilization platform (3D printed mounts on gimbal.)
+UAV with 2-dimensional scanner mounted on stabilization platform (3D printed mounts on gimbal.) (Above)
 
 <img class="ui image" src="../images/2-draw.png">
-2. 2-dimensional scans with control points (in red). This image is of 3 different 2-dimensional scans at 3 separate locations (in red)  stitched together to develop one final 2-dimensional map. This process is necessary to get a full view of all sides of all objects in a room. 
+2-dimensional scans with control points (in red). This image is of 3 different 2-dimensional scans at 3 separate locations (in red)  stitched together to develop one final 2-dimensional map. This process is necessary to get a full view of all sides of all objects in a room. (Above)
 
 
 <img class="ui image" src="../images/3-draw.png">
-3. Final 3-dimensional 'stitched' map of same set up as Figure 2. 
+Final 3-dimensional 'stitched' map of same set up as Figure 2. (Above)
 
 <img class="ui image" src="../images/3D-1.png">
-4. 3-dimensional map of small box on bigger box in room.
-The inconsistencies shown are due to the small errors with the given scan location coordinates. This software would need an additional correction algorithm before being deployed. 
+3-dimensional map of small box on bigger box in room. 
+The inconsistencies shown are due to the small errors with the given scan location coordinates. This software would need an additional correction algorithm before being deployed. (Above)
 
 
 
