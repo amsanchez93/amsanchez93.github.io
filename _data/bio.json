@@ -111,6 +111,18 @@
   ],
   "work": [
     {
+      "company": "Xytech Systems Corporation",
+      "position": "Software Support Analyst",
+      "website": "https://www.xytechsystems.com/",
+      "startDate": "May 2017",
+      "endDate": "Current",
+      "summary": "Clearly understand client reported issues to resolve known ‘gaps’ in the software. Responsibilites: ",
+      "highlights": [
+        "Work with Quality Assurance to find bugs and test new software.",
+        "Troubleshoot and maintain a working knowledge of computer hardware and software, including SQL Server, ODBC, Terminal Services.",
+      ]
+    },
+    {
       "company": "Hawai’i Imin International Conference Center ",
       "position": "Audio/Visual Technician/Operator",
       "website": "http://www.eastwestcenter.org/",
